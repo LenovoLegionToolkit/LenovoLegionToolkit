@@ -130,11 +130,6 @@
                         PageTag="settings"
                         PageType="{x:Type pages:SettingsPage}" />
                     <custom:NavigationItem
-                        Content="{x:Static resources:Resource.MainWindow_NavigationItem_Donate}"
-                        Icon="Money24"
-                        PageTag="donate"
-                        PageType="{x:Type pages:DonatePage}" />
-                    <custom:NavigationItem
                         Content="{x:Static resources:Resource.MainWindow_NavigationItem_About}"
                         Icon="Info24"
                         PageTag="about"

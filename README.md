@@ -1,7 +1,9 @@
 > [!IMPORTANT]
 >
 >The project was synchronized to [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) on August 25, 2025.
+> 
 >The original project is no longer maintained and has been archived, so I created this organization and repository to collect issues and provide follow-up updates and maintenance.
+> 
 >Therefore, contributors from the original project or capable developers are encouraged to join the organization to help update and maintain the project
 > 
 > -------
